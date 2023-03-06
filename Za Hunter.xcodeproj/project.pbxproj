@@ -11,6 +11,7 @@
 		CE4D67DE29B0F73A0039290C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4D67DD29B0F73A0039290C /* ContentView.swift */; };
 		CE4D67E029B0F73D0039290C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE4D67DF29B0F73D0039290C /* Assets.xcassets */; };
 		CE4D67E329B0F73D0039290C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE4D67E229B0F73D0039290C /* Preview Assets.xcassets */; };
+		CE4D67EA29B1004F0039290C /* LocationManager.swift..swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4D67E929B1004F0039290C /* LocationManager.swift..swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CE4D67DD29B0F73A0039290C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CE4D67DF29B0F73D0039290C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE4D67E229B0F73D0039290C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CE4D67E929B1004F0039290C /* LocationManager.swift..swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift..swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CE4D67DB29B0F73A0039290C /* Za_HunterApp.swift */,
 				CE4D67DD29B0F73A0039290C /* ContentView.swift */,
+				CE4D67E929B1004F0039290C /* LocationManager.swift..swift */,
 				CE4D67DF29B0F73D0039290C /* Assets.xcassets */,
 				CE4D67E129B0F73D0039290C /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE4D67EA29B1004F0039290C /* LocationManager.swift..swift in Sources */,
 				CE4D67DE29B0F73A0039290C /* ContentView.swift in Sources */,
 				CE4D67DC29B0F73A0039290C /* Za_HunterApp.swift in Sources */,
 			);
