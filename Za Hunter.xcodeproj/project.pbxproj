@@ -21,7 +21,6 @@
 		CE4D67DF29B0F73D0039290C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE4D67E229B0F73D0039290C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE4D67E929B1004F0039290C /* LocationManager.swift..swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift..swift; sourceTree = "<group>"; };
-		CEC4062A29C0BC53006AC207 /* Za-Hunter-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Za-Hunter-Info.plist"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +53,6 @@
 		CE4D67DA29B0F73A0039290C /* Za Hunter */ = {
 			isa = PBXGroup;
 			children = (
-				CEC4062A29C0BC53006AC207 /* Za-Hunter-Info.plist */,
 				CE4D67DB29B0F73A0039290C /* Za_HunterApp.swift */,
 				CE4D67DD29B0F73A0039290C /* ContentView.swift */,
 				CE4D67E929B1004F0039290C /* LocationManager.swift..swift */,
